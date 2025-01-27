@@ -1,22 +1,11 @@
 ---
-title: What you need to know about Photography
+title: Water Tank petitions worked!!!
 description: "meta description"
-date: 2022-06-02
-image: "/images/posts/03.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+date: 2025-01-24
+categories: ["Town Meeting"]
+authors: ["Alan Day"]
+tags: ["water tanks"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Janet Murphy, the Weston Town Clerk, notified us that we had gathered enough signatures to call for a special town meeting.

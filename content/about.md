@@ -1,7 +1,6 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, currently at Bookworm"
+title: "About Engage Weston"
 meta_title: "About"
-image: "/images/author.jpg"
 layout: "about"
 draft: false
 
@@ -11,7 +10,4 @@ social:
   twitter: "https://www.twitter.com"
   instagram: "https://www.instagram.com"
 ---
-
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Engage Weston is a community-drive group dedicated to increasing voter turnout and fostering civic engagement in our town. Our mission is to bring residents together to support initiatives that reflect our values. By empowering our neighbors to participate in local government, we aim to ensure a more inclusive and forward-thinking future for Weston.

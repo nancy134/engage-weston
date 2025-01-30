@@ -2,6 +2,7 @@
 title: Water Tank Working Group meeting 
 description: "meta description"
 date: 2025-01-26
+image: "/images/SelectBoardMeeting.png"
 categories: ["Event"]
 authors: ["Nancy Piedra"]
 tags: ["water tanks"]

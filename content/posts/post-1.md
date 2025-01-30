@@ -2,6 +2,7 @@
 title: "Important Select Board Meeting"
 description: "meta description"
 date: 2025-01-27
+image: "/images/SelectBoardMeeting.png"
 categories: ["events"]
 authors: ["Nancy Piedra"]
 tags: ["select board", "water tanks", "housing", "3 to 5 select board"]

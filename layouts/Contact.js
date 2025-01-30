@@ -1,8 +1,9 @@
 import config from "@config/config";
 import { markdownify } from "@lib/utils/textConverter";
+import MDXContent from "./partials/MDXContent";
 
 const Contact = ({ data }) => {
-  const { frontmatter } = data;
+  const { frontmatter, content } = data;
   const { title } = frontmatter;
   const { contact_form_action } = config.params;
 
@@ -11,6 +12,7 @@ const Contact = ({ data }) => {
       <div className="container max-w-[700px]">
         {markdownify(title, "h1", "h2 mb-8 text-center")}
         <form
+	  hidden
           className="contact-form"
           method="POST"
           action={contact_form_action}
@@ -56,6 +58,9 @@ const Contact = ({ data }) => {
           </div>
           <button className="btn btn-outline-primary">Submit Now</button>
         </form>
+        <div className="content">
+          <MDXContent content={content} />
+        </div>
       </div>
     </section>
   );

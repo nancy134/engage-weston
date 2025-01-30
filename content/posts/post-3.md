@@ -2,7 +2,7 @@
 title: Water Tank petitions worked!!!
 description: "meta description"
 date: 2025-01-24
-image: "./images/WaterTank.jpg"
+image: "/images/WaterTank.jpg"
 categories: ["Town Meeting"]
 authors: ["Alan Day"]
 tags: ["water tanks"]

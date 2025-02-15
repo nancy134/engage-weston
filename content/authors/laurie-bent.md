@@ -1,5 +1,5 @@
 ---
-title: Nancy Piedra 
+title: Laurie Bent 
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
@@ -7,3 +7,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 Weston resident.
+Member of the Select Board.

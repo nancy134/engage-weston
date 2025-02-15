@@ -28,19 +28,15 @@
         {
           "name": "Tags",
           "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
         }
       ]
     }
   ],
   "footer": [
+  {
+  "name": "Home",
+  "url": "/"
+ },
     {
       "name": "About",
       "url": "/about"
@@ -48,14 +44,6 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
     }
   ]
 }

@@ -14,13 +14,14 @@ Our goal is to create a space where residents can access reliable information, a
 Join us as we build a platform where truth, transparency, and community come together to keep Weston thriving. Let's stay connected!
 
 We want to hear from you.  Please feel free to email us at info@engageweston.com with comments, suggestions, or a request to be added to our mailing list.
+
 To a Strong Weston,
 
-Alan Day
-Alice Benson
-Nancy Piedra
-Tom Timko
-Jeffrey Snell
-Nancy Vescuso
+Alan Day  
+Alice Benson  
+Nancy Piedra  
+Tom Timko  
+Jeffrey Snell  
+Nancy Vescuso  
 
 Our email list came from suggestions from our supporters. Please forward our newsletters to others you think would like it as we know our current reach is still a small portion of town residents.  To unsubscribe, email us at:  info@engageweston.com.

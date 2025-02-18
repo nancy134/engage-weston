@@ -7,7 +7,7 @@ date: 2025-02-06
 categories: ["emails"]
 authors: ["Laurie Bent"]
 tags: ["water tanks"]
-draft: false
+draft: true 
 ---
 Submitted by Laurie Bent, Select Board member, Town of Weston
 

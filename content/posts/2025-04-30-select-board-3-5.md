@@ -1,9 +1,9 @@
 ---
-title: "Select Board 3 to 5 - Letter from Harvey Boshart" 
-description: "Select Board 3 to 5 - Letter from Harvey Boshart"
+title: "Governance Study Committee Letter to the Editor" 
+description: "Governance Study Committee Letter to the Editor"
 date: 2025-04-30
 categories: ["emails"]
-authors: ["Nancy Piedra"]
+authors: ["Alice Benson"]
 tags: ["Select Board 3->5"]
 draft: false
 ---

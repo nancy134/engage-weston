@@ -33,4 +33,4 @@ Alan Day, Alice Benson, Nancy Piedra, Tom Timko, Stefania Mallett
 
 <strong>(If you’d like a yard sign, email info@engageweston.com and we can deliver it to you)</strong>
 
-![Lawn Sign](./images/VoteYes.jpeg)
+![Lawn Sign](./images/VoteYes.png)
